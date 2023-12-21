@@ -6,7 +6,7 @@ Welcome to Gochapaa Wallet. The Future of Finance for Africa powered by AI and B
 
 GoChapaa is a trusted Web 3 wallet that supports Kenyan Shillings. Users can Sign up and buy cryptocurrencies in real time with as little as KES 200. 
 
-This is in line with our mission to launch basic blockchain infrastructure products that promotes prosperity, empowerment, and financial inclusion to EVERYONE in Kenya, and further to the African continent.
+This is in line with our mission to develop basic blockchain infrastructure products that promotes prosperity, empowerment, and financial inclusion to EVERYONE in Kenya, and further to the African continent.
 
 # 'Go' mean move forward. 'Chapaa' means Money
 ‘Go’ means to move forward and ‘Chapaa’ is a swahili slang for ‘Money.’ It’s a trending urban terminology started by the young hustlers from the busy and buzzing financial streets of Nairobi.
