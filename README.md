@@ -2,7 +2,7 @@
 
 # GoChapaa Wallet
 
-Welcome to Gochapaa Wallet. The Future of Finance for Africa powered by AI and Blockchain.
+Welcome to GoChapaa Wallet. The Future of Finance for Africa powered by AI and Blockchain.
 
 GoChapaa is a trusted Web 3 wallet that supports Kenyan Shillings. Users can Sign up and buy cryptocurrencies in real time with as little as KES 200. 
 
@@ -27,7 +27,7 @@ Go to [Sign up ](https://gochapaa.io/signup) page and fill in your KYC details
 
 **2. FUND YOUR WALLET**
 
-Use your mobile money or crypto wallet  to fund your Gochapaa account
+Use your mobile money or crypto wallet  to fund your GoChapaa account
 
 **3. BUY AND SELL CRYPTO IN REALTIME**
 
