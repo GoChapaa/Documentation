@@ -36,3 +36,9 @@ With your wallet funded you can choose to buy and sell available assets at low o
 **4. WITHDRAW YOUR COINS**
 
   Withdraw your Kenya Shillings to your mobile money or your Cryptocurrency to other platforms in simple steps.
+
+# Join our Community
+
+[![Telegram_logo](https://github.com/GoChapaa/Documentation/assets/104560529/1b40fc06-b4da-477d-accf-b8b93c269be7)](https://t.me/gochapaa)
+
+
