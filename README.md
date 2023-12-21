@@ -1,4 +1,5 @@
-![Gochapaa Logo](https://gochapaa.com/img/logo.a0026eee.svg)
+![GoChapaa_Master Logo_Green Navy_RGB](https://github.com/GoChapaa/Documentation/assets/104560529/2b8d5f83-b9c7-4de3-a462-ec70ff93dd29)
+
 # GoChapaa Wallet
 ---
 Welcome to Gochapaa Wallet. The Future of Finance for Africa powered by AI and Blockchain.
