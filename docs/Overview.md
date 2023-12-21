@@ -1,5 +1,9 @@
-![GoChapaa_Master Logo_Green Navy_RGB](https://github.com/GoChapaa/Documentation/assets/104560529/2b8d5f83-b9c7-4de3-a462-ec70ff93dd29)
 
-# GoChapaa Whitepaper
+# OVERVIEW
 
-GoChapaa is on a mission to develop basic blockchain infrastructure products that promotes prosperity, empowerment, and financial inclusion to EVERYONE in Kenya, and further to the African continent.
+
+> ## ‘Go’ means to move forward and ‘Chapaa’ is a swahili slang for ‘Money.’ It’s a trending urban terminology started by the young hustlers from the busy and buzzing financial streets of Nairobi.
+
+In Kenya, the popularity for mobile payment is higher than carrying a credit card or bank accounts and this trend has been spreading quickly across the African continent for the past 16 years. However, what started as a great innovation has now become a monopoly by gaining 98% market share and has slowly dwindled in innovation and lack users’ demand for more financial freedom such as remittance and investment opportunities. And coupled with devaluation of local currencies, the merit of owning mobile money which yields no interest is losing steam. 
+
+GoChapaa is a movement by young Kenyans through online communities to transform lives of young Kenyans. It will be the first government licensed solution platform offered to young Kenyans apart from the decaying financial system and offer freedom to put their hard earned money to work for them and not the other way around. Offering direct services to variety of investment opportunities in FX, equities, bonds, and crypto directly from mobile money. 
