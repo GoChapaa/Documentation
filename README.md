@@ -1,4 +1,5 @@
-![GoChapaa_Master Logo_Green Navy_RGB](https://github.com/GoChapaa/Documentation/assets/104560529/2b8d5f83-b9c7-4de3-a462-ec70ff93dd29)
+
+![GoChapaa_Master Logo_Green Navy_RGB](https://github.com/GoChapaa/Documentation/assets/104560529/acec3d3a-2549-4102-aab2-7b96f6b38142)
 
 # GoChapaa Wallet
 
